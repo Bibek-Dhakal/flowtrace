@@ -2,7 +2,7 @@
 
 DAG-orchestrated, parameterized, lineage-tracked ML pipeline.
 
-FlowTrace is built to demonstrate mid-level machine learning engineering capabilities (SST 1). It closes the gap between
+FlowTrace is built to demonstrate mid-level machine learning engineering capabilities. It closes the gap between
 standard Jupyter notebook scripts and production-ready ML engineering by utilizing an explicit DAG, strict data quality
 gating, and end-to-end lineage tracking.
 
@@ -20,7 +20,6 @@ gating, and end-to-end lineage tracking.
 - [Architecture & Design](docs/architecture/README.md)
 - [Code Quality & Linting](docs/code_quality.md)
 - [Testing Standards](docs/testing/README.md)
-- [Roadmap & Vision](docs/roadmap/README.md)
 
 ## Quick Start
 
