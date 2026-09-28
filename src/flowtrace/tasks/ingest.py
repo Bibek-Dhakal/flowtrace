@@ -1,7 +1,7 @@
 import hashlib
 
 import pandas as pd
-import pandera as pa
+import pandera.pandas as pa
 from prefect import task
 
 # Initial Ingestion Schema (Schema Validation Only)
