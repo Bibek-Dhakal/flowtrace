@@ -40,8 +40,8 @@ def train_model(features: dict, data_version: str) -> tuple[RandomForestClassifi
         mlflow.log_metric("accuracy", acc)
         mlflow.log_metric("f1_score", f1)
 
-        # Log model artifact
-        mlflow.sklearn.log_model(model, "model")
+        # Log model artifact with trusted types for skops
+        mlflow.sklearn.log_model(model, "model", skops_trusted_types=["sklearn.tree._tree.Tree"])
 
         metrics = {"accuracy": acc, "f1_score": f1}
 

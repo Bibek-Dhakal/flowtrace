@@ -30,7 +30,7 @@ target-version = "py310"
 
 [tool.ruff.lint]
 select = ["E", "F", "I", "B"]
-ignore = ["B008"]
+ignore = ["B008", "E402"]
 
 [tool.pytest.ini_options]
 minversion = "7.0"
