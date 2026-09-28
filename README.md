@@ -16,6 +16,7 @@ gating, and end-to-end lineage tracking.
 
 ## Documentation Navigation
 
+- [Value Proposition & Tech Benefits](docs/value_proposition.md) 🌟 Start Here
 - [Usage Guide](docs/usage/README.md)
 - [Architecture & Design](docs/architecture/README.md)
 - [Code Quality & Linting](docs/code_quality.md)
