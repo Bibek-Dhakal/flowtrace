@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/Bibek-Dhakal/flowtrace/compare/v0.2.0...v0.2.1) (2026-09-28)
+
+
+### Documentation
+
+* **repo:** remove internal phase references from documentation ([9a6cf8f](https://github.com/Bibek-Dhakal/flowtrace/commit/9a6cf8ff49d3b62e5023662a26af1f60c5ff399e))
+
 ## [0.2.0](https://github.com/Bibek-Dhakal/flowtrace/compare/v0.1.0...v0.2.0) (2026-09-28)
 
 
