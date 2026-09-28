@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.1](https://github.com/Bibek-Dhakal/flowtrace/compare/v0.4.0...v0.4.1) (2026-09-28)
+
+
+### Documentation
+
+* **core:** add value proposition guide to showcase tool benefits ([0a93ec6](https://github.com/Bibek-Dhakal/flowtrace/commit/0a93ec66d58d0357a55aea58930c004a4e0b4dd4))
+
 ## [0.4.0](https://github.com/Bibek-Dhakal/flowtrace/compare/v0.3.0...v0.4.0) (2026-09-28)
 
 
